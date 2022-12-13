@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 40px;
+}
+
+h2 {
+    color: chartreuse;
+    font-size: 40px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    border: 3px solid #DA70D6;
+    border-radius: 15px;
+    background-color: #DA70D6;
+    color: black;
+    font-family: 300px; /*ajustar, está errado*/
+    font-weight: 700;
+}
+
+.perfil {
+    width: 15%;
+    height: 30%;
+}
+
+.perfil1 {
+    width: 5%;
+    height: 10%;
+}
+
+.perfil2 {
+    width: 5%;
+    height: 10%;
+}
+
+.perfil3 {
+    width: 5%;
+    height: 10%;
+}
+
+.perfil4 {
+    width: 5%;
+    height: 10%;
+}
+
+.perfil5 {
+    width: 5%;
+    height: 10%;
+}
+
+.perfil6 {
+    width: 4%;
+    height: 8%;
+    margin: 15px;
+}
